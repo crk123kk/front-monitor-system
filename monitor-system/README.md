@@ -2,6 +2,10 @@
 
     通过webpack实现监控采集脚本
 
+#### 技术支持
+
+    需要阿里云的log日志
+
 #### 遇到的问题
 
     webpack和webpack-dev-server版本不兼容：
